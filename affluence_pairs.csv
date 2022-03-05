@@ -1,42 +1,42 @@
-rich,poor
-richer,poorer
-richest,poorest
-affluence,poverty
-advantaged,disadvantaged
-affluent,destitute
-classy,beggarly
-costly,economical
-exorbitant,impecunious
-expensive,inexpensive
-exquisite,ruined
-extravagant,necessitous
-flush,skint
-invaluable,cheap
-lavish,economical
-luxuriant,penurious
-luxurious,threadbare
-luxury,cheap
-moneyed,unmonied
-opulent,indigent
-plush,threadbare
-posh,plain
-precious,cheap
-priceless,worthless
-privileged,underprivileged
-propertied,bankrupt
-prosperous,unprosperous
-developed,underdeveloped
-solvency,insolvency
-successful,unsuccessful
-sumptuous,plain
-swanky,basic
-opulent,needy
-upscale,squalid
-valuable,valueless
-wealthy,impoverished
-ritzy,ramshackle
-opulence,indigence
-solvent,insolvent
-moneyed,moneyless
-rich,penniless
-affluence,penury
+rich_ger,poor_ger,rich_en,poor_en,poor_rus,poor_fra,poor_ita,rich_ita,rich_rus,rich_fra,rich_chi,poor_chi
+reicher,ärmer,richer,poorer,беднее,plus pauvre,più povero,più ricco,богаче,plus riche,富,穷
+reichste,am ärmsten,richest,poorest,самый бедный,plus pauvre,più povero,più ricco,самый богатый,le plus riche,富有,穷人
+Wohlstand,Armut,affluence,poverty,бедность,la pauvreté,povertà,ricchezza,изобилие,richesse,富裕,最穷
+begünstigt,benachteiligt,advantaged,disadvantaged,обездоленный,défavorisé,svantaggiato,avvantaggiato,привилегированный,avantagé,优势,贫穷
+wohlhabend,mittellos,affluent,destitute,обездоленный,dépourvu,indigente,affluente,богатый,affluent,优雅,不利
+nobel,bettelnd,classy,beggarly,нищенский,misérable,mendicante,di classe,классный,chic,昂贵,穷困
+teuer,wirtschaftlich,costly,economical,экономичный,économique,economico,costoso,дорого,cher,过高,困穷
+exorbitant,mittellos,exorbitant,impecunious,безденежный,impécunieux,impunito,esorbitante,непомерный,exorbitant,高贵,穷困潦倒
+teuer,preiswert,expensive,inexpensive,недорогой,peu coûteux,poco costoso,costoso,дорого,cher,精致,潦倒
+exquisit,ruiniert,exquisite,ruined,разрушенный,ruiné,rovinato,squisito,изысканный,exquis,奢侈,乞讨
+extravagant,notwendig,extravagant,necessitous,необходимый,nécessiteux,necessario,stravagante,экстравагантный,extravagant,无价,没钱
+spülen,Haut,flush,skint,шкурка,fauché,pelle,sciacquone,румянец,affleurer,奢华,便宜
+unschätzbar,billig,invaluable,cheap,дешевый,pas cher,economico,inestimabile,бесценный,inestimable,华丽,贫民
+verschwenderisch,wirtschaftlich,lavish,economical,экономичный,économique,economico,sontuoso,щедрый,somptueux,豪华,贫民窟
+üppig,geizig,luxuriant,penurious,скудный,misérable,misero,lussureggiante,пышный,luxuriant,有钱,贫乏
+luxuriös,fadenscheinig,luxurious,threadbare,изношенный,râpé,logoro,lussuoso,роскошный,luxueux,珍贵,破旧
+Luxus,billig,luxury,cheap,дешевый,pas cher,economico,lusso,роскошь,luxe,特权,毫无价值
+eingezahlt,unbezahlt,moneyed,unmonied,без денег,sans argent,senza soldi,denaro,денежный,riche,财产,贫困
+opulent,bedürftig,opulent,indigent,неимущий,indigent,indigente,opulento,роскошный,opulent,繁荣,破产
+Plüsch-,fadenscheinig,plush,threadbare,изношенный,râpé,logoro,peluche,плюшевый,peluche,发达,凋敝
+vornehm,einfach,posh,plain,простой,plaine,pianura,elegante,шикарный,chic,能力,无力
+kostbar,billig,precious,cheap,дешевый,pas cher,economico,prezioso,драгоценный,précieux,成功,偿债
+unbezahlbar,wertlos,priceless,worthless,бесполезный,sans valeur,inutile,inestimabile,бесценный,inestimable,华丽,失敗
+privilegiert,unterprivilegiert,privileged,underprivileged,обездоленный,défavorisé,svantaggiato,privilegiato,привилегированный,privilégié,时髦,平淡
+besessen,Pleite,propertied,bankrupt,банкрот,faillite,fallito,posseduto,имущественный,possédant,高档的,平凡
+florierend,unwohlhabend,prosperous,unprosperous,неблагополучный,peu prospère,poco prospero,prospero,процветающий,prospère,价值,基本
+entwickelt,unterentwickelt,developed,underdeveloped,недоразвитый,sous-développé,sottosviluppato,sviluppato,развитый,développé,价钱,肮脏
+Zahlungsfähigkeit,Insolvenz,solvency,insolvency,неплатежеспособность,insolvabilité,insolvenza,solvibilità,платежеспособность,solvabilité,豪华,摇摇欲坠
+erfolgreich,erfolglos,successful,unsuccessful,неудачный,infructueux,senza esito,riuscito,успешный,réussi,有钱,身无分文
+üppig,einfach,sumptuous,plain,простой,plaine,pianura,sontuoso,роскошный,somptueux,金钱,穷苦
+schick,Basic,swanky,basic,базовый,de base,di base,sciccoso,шикарный,chic,充裕,贫寒
+opulent,Bedürftige,opulent,needy,нуждающийся,nécessiteux,bisognoso,opulento,роскошный,opulent,充足,拮据
+gehoben,erbärmlich,upscale,squalid,убогий,sordide,squallido,raffinato,высококлассный,haut de gamme,富足,贫苦
+wertvoll,wertlos,valuable,valueless,бесполезный,sans valeur,senza valore,prezioso,ценный,de valeur,富强,困苦
+Reich,verarmt,wealthy,impoverished,обедневший,appauvri,impoverito,ricco,богатый,riche,,清贫
+schick,baufällig,ritzy,ramshackle,ветхий,délabré,sgangherato,raffinato,шикарный,chic,,贫困
+Opulenz,Bedürftigkeit,opulence,indigence,нищета,indigence,indigenza,opulenza,богатство,opulence,,赤贫
+Lösungsmittel,zahlungsunfähig,solvent,insolvent,неплатежеспособный,insolvable,insolvente,solvente,растворитель,solvant,,穷人
+eingezahlt,geldlos,moneyed,moneyless,безденежный,sans argent,senza soldi,denaro,денежный,riche,,
+Reich,mittellos,rich,penniless,без гроша в кармане,sans le sou,senza un soldo,ricco,богатый,riche,,
+Wohlstand,Armut,affluence,penury,нищета,pénurie,penuria,ricchezza,изобилие,richesse,,
