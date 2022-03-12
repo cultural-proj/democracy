@@ -1,4 +1,4 @@
-eng_high_status,eng_low_status,chi_high_status,chi_low_status,fre_high_status,fre_low_status,ger_high_status,ger_low_status,ita_high_status,ita_low_status,rus_high_status,rus_low_status
+high_status_eng,low_status_eng,high_status_chi,low_status_chi,high_status_fra,low_status_fra,high_status_ger,low_status_ger,high_status_ita,low_status_ita,high_status_rus,low_status_rus
 prestigious,unprestigious,声望,低等,prestigieux,sans prestige,prestigeträchtig,unrenommiert,prestigioso,senza prestigio,престижный,непрестижный
 honorable,dishonorable,光荣,卑鄙,honorable,déshonorant,ehrenhaft,unehrenhaft,onorevole,disonorevole,почетный,бесчестный
 esteemed,lowly,尊敬,卑微,estimé,bas,geschätzt,bescheiden,stimato,umile,уважаемый,непритязательный
