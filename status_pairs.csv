@@ -1,16 +1,16 @@
-,high_status,low_status
-0,prestigious,unprestigious
-1,honorable,dishonorable
-2,esteemed,lowly
-3,influential,uninfluential
-4,reputable,disreputable
-5,distinguished,commonplace
-6,eminent,mundane
-7,illustrious,humble
-8,renowned,prosaic
-9,acclaimed,modest
-10,dignitary,commoner
-11,venerable,unpretentious
-12,exalted,ordinary
-13,estimable,lowly
-14,prominent,common
+high_status_eng,low_status_eng,high_status_chi,low_status_chi,high_status_fra,low_status_fra,high_status_ger,low_status_ger,high_status_ita,low_status_ita,high_status_rus,low_status_rus
+prestigious,unprestigious,声望,低等,prestigieux,sans prestige,prestigeträchtig,unrenommiert,prestigioso,senza prestigio,престижный,непрестижный
+honorable,dishonorable,光荣,卑鄙,honorable,déshonorant,ehrenhaft,unehrenhaft,onorevole,disonorevole,почетный,бесчестный
+esteemed,lowly,尊敬,卑微,estimé,bas,geschätzt,bescheiden,stimato,umile,уважаемый,непритязательный
+influential,uninfluential,影响,平庸,influent,sans influence,einflussreich,einflusslos,influente,non influente,влиятельный,неважный
+reputable,disreputable,信誉,微小,de bonne réputation,peu recommandable,seriös,anrüchig,rispettabile,poco raccomandabile,авторитетный,сомнительный
+distinguished,commonplace,尊贵,狼藉,distingué,banal,ausgezeichnet,alltäglich,distinto,luogo comune,выдающийся,банальный
+eminent,mundane,显赫,平凡,éminent,banal,herausragend,weltlich,eminente,banale,выдающийся,приземленный
+illustrious,humble,杰出,世俗,illustre,humble,berühmt,bescheiden,illustre,umile,прославленный,скромный
+renowned,prosaic,名声,谦逊,renommé,prosaïque,renommiert,prosaisch,rinomato,prosaico,известный,прозаический
+acclaimed,modest,名声,平淡,acclamé,modeste,gefeiert,bescheiden,acclamato,modesto,известный,скромный
+dignitary,commoner,好评,谦虚,dignitaire,roturier,cürdenträger,gewöhnlicher,dignitario,cittadino comune,высокопоставленный,простолюдин
+venerable,unpretentious,显贵,平民,vénérable,sans prétention,ehrwürdig,unprätentiös,venerabile,senza pretese,почтенный,непритязательный
+exalted,ordinary,可敬,普通,exalté,ordinaire,erhaben,gewöhnlich,esaltato,ordinario,возвышенный,обыкновенный
+estimable,lowly,敬爱,卑微,estimable,bas,schätzbar,bescheiden,stimabile,umile,уважаемый,непритязательный
+prominent,common,突出,常见,éminent,commun,prominent,gewöhnlich,prominente,comune,выдающийся,обычный
