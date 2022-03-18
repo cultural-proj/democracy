@@ -1,5 +1,5 @@
 # "Mining for Meaning: Investigating conceptions of democracy across cultures and time"
-This repository consist of codes and data for SOCI40133 course project.
+This repository consists of code and data we used for our SOCI40133 course project.
 
 ### Most Similar Words, Complements, and Substitutes to Democracy
 1. The folder ```comsub``` contains our data;
