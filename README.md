@@ -2,7 +2,7 @@
 This repository consists of code and data we used for our SOCI40133 course project.
 
 ### Final Paper
-The final paper written for this course can be found under Mining_for_meaning_draft.pdf
+The final paper written for this course can be found under ```Mining_for_meaning_draft.pdf```
 
 ### Most Similar Words, Complements, and Substitutes to Democracy
 1. The folder ```comsub``` contains our data;
